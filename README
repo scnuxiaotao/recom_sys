@@ -1,0 +1,4 @@
+1.抓到的数据最好是先使用id_change.java转化一下；
+2.data为数据源；
+3.src为java文件；
+4.该工程为eclipse，如果不用的话直接把data的txt和src的java文件拿出来就可以了。
